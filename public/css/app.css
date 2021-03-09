@@ -1,0 +1,24 @@
+.toolbox {
+  padding: 10px;
+}
+
+.function-button {
+  margin-bottom: 15px;
+}
+
+.comment-body form {
+  display: none;
+}
+
+.comment-body.edit form {
+  display: block;
+}
+
+.comment-body.edit p {
+  display: none;
+}
+
+.list-group {
+  background-color: black;
+}
+
